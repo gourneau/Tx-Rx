@@ -1,0 +1,6 @@
+add history
+add twitter
+add 'master key add'
+
+publish source code on github
+
