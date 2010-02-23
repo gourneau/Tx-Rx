@@ -8,7 +8,7 @@ from adoor.rfid.models import *
 
 #twitter
 from twitter import *
-twitter = Twitter("TxRxDoor", "PASSWorD")
+twitter = Twitter("TxRxDoor", "hacccckkkss")
 
 ser = serial.Serial('/dev/ttyUSB1', 57600)
 
